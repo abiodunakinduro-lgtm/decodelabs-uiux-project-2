@@ -1,5 +1,5 @@
 ## The Blueprint — E-commerce Homepage
-**Low-Fidelity UX Architecture & Wireframing*
+*Low-Fidelity UX Architecture & Wireframing*
 
 A low-fidelity UX project focused on creating a clear and logical structure for an e-commerce homepage before moving into high-fidelity visual design.
 
@@ -48,25 +48,31 @@ This helped determine what users should notice first, what should follow, and wh
 
 This project consists of three main deliverable panels created in Figma.
 
-**User Flow & Information Hierarchy**
+* User Flow & Information Hierarchy:
+  
 Provide multiple but understandable entry 
 
 Mapped the primary shopping journey, alternative entry points, site structure, and homepage hierarchy.
 
-**Low-Fidelity Homepage**
+
+* Low-Fidelity Homepage: 
 
 Structured the experience around:
 
 Navigation → Hero → Categories → Featured Products → Promotion → Trust & Support → Newsletter → Footer
 
-**Wireframe Annotations**
+* Wireframe Annotations:
 
 Added numbered annotations to communicate the purpose and UX role of each major homepage section.
 
+
 The completed panels are included in this repository as visual project deliverables, linked above.
 
+
 🔗 **View the full design board (Figma):**
-(https://www.figma.com/design/29fzhTRiT8vuWDWDRLJlUa/Project-2---Homepage-Wireframe?node-id=0-1&t=Bhgju1bnQyzDL52E-1)
+
+https://www.figma.com/design/29fzhTRiT8vuWDWDRLJlUa/Project-2---Homepage-Wireframe?node-id=0-1&t=Bhgju1bnQyzDL52E-1
+
 
 ## 🔘 CTA Direction
 
@@ -75,6 +81,7 @@ The interface uses clear, action-oriented CTAs to support the shopping journey:
 **Shop Now · Explore Collection · View All Products · Add to Cart · Shop the Sales · Subscribe**
 
 Primary actions receive stronger visual emphasis, while secondary actions support exploration and discovery.
+
 
 ## 🎨 Low-Fidelity Direction
 
@@ -88,15 +95,18 @@ The design intentionally stays within the low-fidelity constraints of the projec
 
 No final imagery, brand colours, or decorative styling were introduced. The focus remained on structure, hierarchy, navigation, and usability.
 
+
 ## 🛠️ Tool
 
 Figma 
+
 
 ## 🔄 Design Process
 
 Challenge → User Flow → Information Architecture → Hierarchy → Wireframe → CTA Placement → Annotation
 
 This process allowed the experience to be structured logically before moving toward high-fidelity design.
+
 
 ## 💡 Key Takeaway
 
@@ -106,17 +116,20 @@ It is about making the next step obvious.
 
 This project strengthened my ability to structure digital experiences around clarity, navigation, and user intent before visual polish.
 
+
 ## 👤 Author
 
 **Abiodun Akinduro**
 
 UI/UX Design Intern - focused on user-centered design, product thinking, and creating digital experiences that are clear, intuitive, and purposeful.
 
+
 ## 🏢 Internship
 
 This project was completed as **Project 2: THE BLUEPRINT (WIREFRAMING)** during my **DecodeLabs UI/UX Design Internship Program**.
 
 This project represents the architecture stage of the design process establishing the user journey, hierarchy, and page structure before moving into high-fidelity visual design.
+
 
 ## 📄 License
 
