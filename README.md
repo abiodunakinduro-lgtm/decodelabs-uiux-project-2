@@ -34,13 +34,12 @@ User Flow · Information Hierarchy · Low-Fidelity Wireframing · CTA Clarity
 
 I treated the homepage as a guided shopping journey:
 
-Home → Browse Products → Product Details → Add to Cart → Cart → Checkout
+*Home → Browse Products → Product Details → Add to Cart → Cart → Checkout*
 
 I also mapped alternative entry points through Shop Now, Categories, Featured Products, Deals, and Search, allowing users to enter the shopping journey from different points.
 
 The structure was then organized into a three-level hierarchy:
-
-Primary → Secondary → Supporting
+*Primary → Secondary → Supporting*
 
 This helped determine what users should notice first, what should follow, and what information should remain supportive.
 
@@ -48,22 +47,17 @@ This helped determine what users should notice first, what should follow, and wh
 
 This project consists of three main deliverable panels created in Figma.
 
-* User Flow & Information Hierarchy:
-  
-Provide multiple but understandable entry 
-
-Mapped the primary shopping journey, alternative entry points, site structure, and homepage hierarchy.
+01. User Flow & Information Hierarchy:
+  * Provide multiple but understandable entry.
+  * Mapped the primary shopping journey, alternative entry points, site structure, and homepage hierarchy.
 
 
-* Low-Fidelity Homepage: 
+02. Low-Fidelity Homepage:
+  * Structured the experience around:
+    *Navigation → Hero → Categories → Featured Products → Promotion → Trust & Support → Newsletter → Footer*
 
-Structured the experience around:
-
-Navigation → Hero → Categories → Featured Products → Promotion → Trust & Support → Newsletter → Footer
-
-* Wireframe Annotations:
-
-Added numbered annotations to communicate the purpose and UX role of each major homepage section.
+03. Wireframe Annotations:
+  * Added numbered annotations to communicate the purpose and UX role of each major homepage section.
 
 
 The completed panels are included in this repository as visual project deliverables, linked above.
@@ -77,8 +71,8 @@ https://www.figma.com/design/29fzhTRiT8vuWDWDRLJlUa/Project-2---Homepage-Wirefra
 ## 🔘 CTA Direction
 
 The interface uses clear, action-oriented CTAs to support the shopping journey:
-
-**Shop Now · Explore Collection · View All Products · Add to Cart · Shop the Sales · Subscribe**
+ 
+  *Shop Now · Explore Collection · View All Products · Add to Cart · Shop the Sales · Subscribe*
 
 Primary actions receive stronger visual emphasis, while secondary actions support exploration and discovery.
 
@@ -103,7 +97,7 @@ Figma
 
 ## 🔄 Design Process
 
-Challenge → User Flow → Information Architecture → Hierarchy → Wireframe → CTA Placement → Annotation
+*Challenge → User Flow → Information Architecture → Hierarchy → Wireframe → CTA Placement → Annotation*
 
 This process allowed the experience to be structured logically before moving toward high-fidelity design.
 
